@@ -1,0 +1,27 @@
+@startuml
+?
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Сотрудник" as user
+boundary "БД" as app
+boundary "Сортировки" as app2
+
+user -> app: Запрос
+activate app
+app->user: Данные
+deactivate app
+
+user --> app2: сортировка
+activate app2
+app <- app2: Проверка скорости
+activate app
+app->app2: Результат проверка
+deactivate app
+app2->user: Сортированные данные
+deactivate app2
+@enduml
