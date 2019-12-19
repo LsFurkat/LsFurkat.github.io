@@ -14,8 +14,45 @@
 <br> <li> Диаграмма прецедентов
 <br> ![none](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/PlantumlPrec.png)
 <br> [UML-код диаграммы прецедентов](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/PlanumlPrecCode.txt)
-# Лабораторная 2
-# Лабораторная 3
+## Лабораторная 2
+
+[Файл развёрнутой модели](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/six.rsf)
+***
++ Диаграмма PDC:
+
+![диаграмма PDC](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/pdc.png)
+
+
++ Диаграмма DFD:
+
+![Диаграмма DFD](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/dfd.png)
+
+
++ Диаграмма прецедентов:
+
+[UML-код диаграммы прецедентов](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/diaPrecCode2.txt)
+
+![Диаграмма прецедентов](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/diaPrec2.png)
+***
+## Лабораторная 3
+***
++ Диаграмма DFD:
+
+![диаграмма DFD](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/dfd2.png)
+
+
++ Диаграмма последовательности:
+
+[UML-код диаграммы последовательности](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/diaPosCode.txt)
+
+![Диаграмма последовательности](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/diaPos.png)
+
+
++ Диаграмма ERD:
+
+![Диаграмма ERD](https://github.com/LsFurkat/LsFurkat.github.io/blob/master/erd.png)
+***
+
 # Лабораторная 4
 # Лабораторная 5
 # Лабораторная 6
